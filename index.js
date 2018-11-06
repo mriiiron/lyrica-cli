@@ -1,0 +1,1 @@
+throw 'lyrica-cli: This package is not used for require().'
